@@ -2,14 +2,14 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-10-15",
+    "updatedThrough": "2026-10-16",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
       "high": 1800
     },
     "estimationPolicy": "Higher-side practical estimates when portions or preparation are uncertain.",
-    "source": "GQ Calorie Tracker",
+    "source": "GQ Calorie Tracker — backed up in Google Sheets",
     "editionTimezone": "Asia/Karachi",
     "pressTime": "04:00",
     "editionPolicy": "At 4:00 AM Pakistan time, publish the previous finalized day's edition. If it is not finalized, keep the latest completed edition.",
@@ -225,6 +225,13 @@
       "low": 1860,
       "high": 1900,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-10-16",
+      "kcal": 1980,
+      "low": 1850,
+      "high": 2150,
+      "sugar": "Moderate"
     }
   ],
   "macroDays": [
@@ -243,6 +250,14 @@
       "fat": 40,
       "fiber": 12,
       "confidence": "rough estimate"
+    },
+    {
+      "date": "2026-10-16",
+      "protein": 105,
+      "carbs": 205,
+      "fat": 80,
+      "fiber": 19,
+      "confidence": "Estimated from reported portions and lunch photograph; not weighed"
     }
   ]
 }
