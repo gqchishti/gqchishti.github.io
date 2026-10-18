@@ -2,14 +2,14 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-10-16",
+    "updatedThrough": "2026-10-17",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
       "high": 1800
     },
     "estimationPolicy": "Higher-side practical estimates when portions or preparation are uncertain.",
-    "source": "GQ Calorie Tracker — backed up in Google Sheets",
+    "source": "Google Sheets GQ Calorie Tracker master (finalized entries only)",
     "editionTimezone": "Asia/Karachi",
     "pressTime": "04:00",
     "editionPolicy": "At 4:00 AM Pakistan time, publish the previous finalized day's edition. If it is not finalized, keep the latest completed edition.",
@@ -232,6 +232,13 @@
       "low": 1850,
       "high": 2150,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-10-17",
+      "kcal": 1740,
+      "low": 1550,
+      "high": 1950,
+      "sugar": "Moderate"
     }
   ],
   "macroDays": [
@@ -241,7 +248,7 @@
       "carbs": 170,
       "fat": 65,
       "fiber": 22,
-      "confidence": "rough estimate"
+      "confidence": "Legacy rough estimate migrated from previous Gazette publication; not directly weighed"
     },
     {
       "date": "2026-10-09",
@@ -249,7 +256,7 @@
       "carbs": 90,
       "fat": 40,
       "fiber": 12,
-      "confidence": "rough estimate"
+      "confidence": "Legacy rough estimate migrated from previous Gazette publication; not directly weighed"
     },
     {
       "date": "2026-10-16",
@@ -258,6 +265,14 @@
       "fat": 80,
       "fiber": 19,
       "confidence": "Estimated from reported portions and lunch photograph; not weighed"
+    },
+    {
+      "date": "2026-10-17",
+      "protein": 53,
+      "carbs": 186,
+      "fat": 82,
+      "fiber": 13,
+      "confidence": "Rough food-based estimate; fried items and chicken portions not weighed"
     }
   ]
 }
