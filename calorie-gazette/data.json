@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-10-17",
+    "updatedThrough": "2026-10-19",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -239,6 +239,13 @@
       "low": 1550,
       "high": 1950,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-10-19",
+      "kcal": 2290,
+      "low": 2070,
+      "high": 2560,
+      "sugar": "Moderate"
     }
   ],
   "macroDays": [
@@ -248,7 +255,7 @@
       "carbs": 170,
       "fat": 65,
       "fiber": 22,
-      "confidence": "Legacy rough estimate migrated from previous Gazette publication; not directly weighed"
+      "confidence": "Legacy macro estimate; food portions not weighed"
     },
     {
       "date": "2026-10-09",
@@ -256,7 +263,7 @@
       "carbs": 90,
       "fat": 40,
       "fiber": 12,
-      "confidence": "Legacy rough estimate migrated from previous Gazette publication; not directly weighed"
+      "confidence": "Legacy macro estimate; food portions not weighed"
     },
     {
       "date": "2026-10-16",
@@ -264,7 +271,7 @@
       "carbs": 205,
       "fat": 80,
       "fiber": 19,
-      "confidence": "Estimated from reported portions and lunch photograph; not weighed"
+      "confidence": "Food-based estimate; portions not weighed"
     },
     {
       "date": "2026-10-17",
@@ -272,7 +279,15 @@
       "carbs": 186,
       "fat": 82,
       "fiber": 13,
-      "confidence": "Rough food-based estimate; fried items and chicken portions not weighed"
+      "confidence": "Rough food-based estimate; portions not weighed"
+    },
+    {
+      "date": "2026-10-19",
+      "protein": 107,
+      "carbs": 239,
+      "fat": 99,
+      "fiber": 9,
+      "confidence": "Food-based approximate estimate; ingredient and portion uncertainty"
     }
   ]
 }
