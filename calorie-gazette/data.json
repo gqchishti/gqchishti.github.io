@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-10-19",
+    "updatedThrough": "2026-10-21",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -246,6 +246,20 @@
       "low": 2070,
       "high": 2560,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-10-20",
+      "kcal": 1715,
+      "low": 1540,
+      "high": 1950,
+      "sugar": "Moderate"
+    },
+    {
+      "date": "2026-10-21",
+      "kcal": 2495,
+      "low": 2250,
+      "high": 2820,
+      "sugar": "High"
     }
   ],
   "macroDays": [
@@ -255,7 +269,7 @@
       "carbs": 170,
       "fat": 65,
       "fiber": 22,
-      "confidence": "Legacy macro estimate; food portions not weighed"
+      "confidence": "Estimated from user-confirmed food log; portions and preparation may vary"
     },
     {
       "date": "2026-10-09",
@@ -263,7 +277,7 @@
       "carbs": 90,
       "fat": 40,
       "fiber": 12,
-      "confidence": "Legacy macro estimate; food portions not weighed"
+      "confidence": "Estimated from user-confirmed food log; portions and preparation may vary"
     },
     {
       "date": "2026-10-16",
@@ -271,7 +285,7 @@
       "carbs": 205,
       "fat": 80,
       "fiber": 19,
-      "confidence": "Food-based estimate; portions not weighed"
+      "confidence": "Estimated from user-confirmed food log; portions and preparation may vary"
     },
     {
       "date": "2026-10-17",
@@ -279,7 +293,7 @@
       "carbs": 186,
       "fat": 82,
       "fiber": 13,
-      "confidence": "Rough food-based estimate; portions not weighed"
+      "confidence": "Estimated from user-confirmed food log; portions and preparation may vary"
     },
     {
       "date": "2026-10-19",
@@ -287,7 +301,23 @@
       "carbs": 239,
       "fat": 99,
       "fiber": 9,
-      "confidence": "Food-based approximate estimate; ingredient and portion uncertainty"
+      "confidence": "Estimated from user-confirmed food log; portions and preparation may vary"
+    },
+    {
+      "date": "2026-10-20",
+      "protein": 64,
+      "carbs": 176,
+      "fat": 81,
+      "fiber": 11,
+      "confidence": "Estimated from user-confirmed food log; portions and preparation may vary"
+    },
+    {
+      "date": "2026-10-21",
+      "protein": 124,
+      "carbs": 268,
+      "fat": 99,
+      "fiber": 9,
+      "confidence": "Estimated from user-confirmed food log; portions and preparation may vary"
     }
   ]
 }
