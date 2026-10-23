@@ -2,13 +2,13 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-10-22",
+    "updatedThrough": "2026-10-23",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
       "high": 1800
     },
-    "estimationPolicy": "Higher-side practical estimates when portions or preparation are uncertain.",
+    "estimationPolicy": "Higher-side practical estimates when portions are uncertain",
     "source": "Google Sheets GQ Calorie Tracker master (finalized entries only)",
     "editionTimezone": "Asia/Karachi",
     "pressTime": "04:00",
@@ -267,6 +267,13 @@
       "low": 1950,
       "high": 2390,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-10-23",
+      "kcal": 1760,
+      "low": 1590,
+      "high": 2020,
+      "sugar": "Moderate"
     }
   ],
   "macroDays": [
@@ -276,7 +283,7 @@
       "carbs": 170,
       "fat": 65,
       "fiber": 22,
-      "confidence": "Estimated from user-confirmed meal descriptions; portions and preparation may vary"
+      "confidence": "Legacy rough estimate migrated from previous Gazette publication; not directly weighed"
     },
     {
       "date": "2026-10-09",
@@ -284,7 +291,7 @@
       "carbs": 90,
       "fat": 40,
       "fiber": 12,
-      "confidence": "Estimated from user-confirmed meal descriptions; portions and preparation may vary"
+      "confidence": "Legacy rough estimate migrated from previous Gazette publication; not directly weighed"
     },
     {
       "date": "2026-10-16",
@@ -292,7 +299,7 @@
       "carbs": 205,
       "fat": 80,
       "fiber": 19,
-      "confidence": "Estimated from user-confirmed meal descriptions; portions and preparation may vary"
+      "confidence": "Estimated from reported portions and lunch photograph; not weighed"
     },
     {
       "date": "2026-10-17",
@@ -300,7 +307,7 @@
       "carbs": 186,
       "fat": 82,
       "fiber": 13,
-      "confidence": "Estimated from user-confirmed meal descriptions; portions and preparation may vary"
+      "confidence": "Rough food-based estimate; fried items and chicken portions not weighed"
     },
     {
       "date": "2026-10-19",
@@ -308,7 +315,7 @@
       "carbs": 239,
       "fat": 99,
       "fiber": 9,
-      "confidence": "Estimated from user-confirmed meal descriptions; portions and preparation may vary"
+      "confidence": "Approximate; fish, keema, and pizza unweighed, orange juice assumed 44 kcal/100 ml"
     },
     {
       "date": "2026-10-20",
@@ -316,7 +323,7 @@
       "carbs": 176,
       "fat": 81,
       "fiber": 11,
-      "confidence": "Estimated from user-confirmed meal descriptions; portions and preparation may vary"
+      "confidence": "Food-based estimate; qorma fat, pakora portions, and guava nectar serving size uncertain"
     },
     {
       "date": "2026-10-21",
@@ -324,7 +331,7 @@
       "carbs": 268,
       "fat": 99,
       "fiber": 9,
-      "confidence": "Estimated from user-confirmed meal descriptions; portions and preparation may vary"
+      "confidence": "Best practical estimate; uncertainty in candy pack weight, chicken portion sizes, sauces and juice brand"
     },
     {
       "date": "2026-10-22",
@@ -332,7 +339,15 @@
       "carbs": 230,
       "fat": 85,
       "fiber": 9,
-      "confidence": "Estimated from user-confirmed meal descriptions; portions and preparation may vary"
+      "confidence": "Food-based estimate; rice, chicken, oil and biscuit weights uncertain"
+    },
+    {
+      "date": "2026-10-23",
+      "protein": 74,
+      "carbs": 217,
+      "fat": 61,
+      "fiber": 9,
+      "confidence": "Food-based estimate; chicken/gravy/oil quantities and juice nutrition label uncertain"
     }
   ]
 }
