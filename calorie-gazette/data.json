@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-10-23",
+    "updatedThrough": "2026-10-24",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -274,6 +274,13 @@
       "low": 1590,
       "high": 2020,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-10-24",
+      "kcal": 1320,
+      "low": 1140,
+      "high": 1500,
+      "sugar": "Low"
     }
   ],
   "macroDays": [
@@ -348,6 +355,14 @@
       "fat": 61,
       "fiber": 9,
       "confidence": "Food-based estimate; chicken/gravy/oil quantities and juice nutrition label uncertain"
+    },
+    {
+      "date": "2026-10-24",
+      "protein": 64,
+      "carbs": 86,
+      "fat": 72,
+      "fiber": 4,
+      "confidence": "Approximate from food portions; edible meat and gravy oil unweighed"
     }
   ]
 }
