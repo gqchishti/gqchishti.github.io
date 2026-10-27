@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-10-26",
+    "updatedThrough": "2026-10-27",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -295,6 +295,13 @@
       "low": 2400,
       "high": 3400,
       "sugar": "High"
+    },
+    {
+      "date": "2026-10-27",
+      "kcal": 1000,
+      "low": 860,
+      "high": 1200,
+      "sugar": "Moderate"
     }
   ],
   "macroDays": [
@@ -304,7 +311,7 @@
       "carbs": 170,
       "fat": 65,
       "fiber": 22,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Legacy rough estimate migrated from previous Gazette publication; not directly weighed"
     },
     {
       "date": "2026-10-09",
@@ -312,7 +319,7 @@
       "carbs": 90,
       "fat": 40,
       "fiber": 12,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Legacy rough estimate migrated from previous Gazette publication; not directly weighed"
     },
     {
       "date": "2026-10-16",
@@ -320,7 +327,7 @@
       "carbs": 205,
       "fat": 80,
       "fiber": 19,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Estimated from reported portions and lunch photograph; not weighed"
     },
     {
       "date": "2026-10-17",
@@ -328,7 +335,7 @@
       "carbs": 186,
       "fat": 82,
       "fiber": 13,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Rough food-based estimate; fried items and chicken portions not weighed"
     },
     {
       "date": "2026-10-19",
@@ -336,7 +343,7 @@
       "carbs": 239,
       "fat": 99,
       "fiber": 9,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Approximate; fish, keema, and pizza unweighed, orange juice assumed 44 kcal/100 ml"
     },
     {
       "date": "2026-10-20",
@@ -344,7 +351,7 @@
       "carbs": 176,
       "fat": 81,
       "fiber": 11,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Food-based estimate; qorma fat, pakora portions, and guava nectar serving size uncertain"
     },
     {
       "date": "2026-10-21",
@@ -352,7 +359,7 @@
       "carbs": 268,
       "fat": 99,
       "fiber": 9,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Best practical estimate; uncertainty in candy pack weight, chicken portion sizes, sauces and juice brand"
     },
     {
       "date": "2026-10-22",
@@ -360,7 +367,7 @@
       "carbs": 230,
       "fat": 85,
       "fiber": 9,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Food-based estimate; rice, chicken, oil and biscuit weights uncertain"
     },
     {
       "date": "2026-10-23",
@@ -368,7 +375,7 @@
       "carbs": 217,
       "fat": 61,
       "fiber": 9,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Food-based estimate; chicken/gravy/oil quantities and juice nutrition label uncertain"
     },
     {
       "date": "2026-10-24",
@@ -376,7 +383,7 @@
       "carbs": 86,
       "fat": 72,
       "fiber": 4,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Approximate from food portions; edible meat and gravy oil unweighed"
     },
     {
       "date": "2026-10-25",
@@ -384,7 +391,7 @@
       "carbs": 108,
       "fat": 72,
       "fiber": 7,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Approximate food-based estimates; unweighed chicken and roti"
     },
     {
       "date": "2026-10-26",
@@ -392,7 +399,15 @@
       "carbs": 285,
       "fat": 138,
       "fiber": 12,
-      "confidence": "Estimated from food descriptions and unweighed portions"
+      "confidence": "Very approximate from recalled wedding portions; pastry/dessert, oil and meat weights not measured"
+    },
+    {
+      "date": "2026-10-27",
+      "protein": 40,
+      "carbs": 97,
+      "fat": 47,
+      "fiber": 11,
+      "confidence": "Practical food-based estimates; bread and frying oil not weighed, and bar/milk use usual estimates"
     }
   ]
 }
