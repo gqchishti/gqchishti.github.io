@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-10-27",
+    "updatedThrough": "2026-10-28",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -302,6 +302,13 @@
       "low": 860,
       "high": 1200,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-10-28",
+      "kcal": 1920,
+      "low": 1720,
+      "high": 2190,
+      "sugar": "Moderate"
     }
   ],
   "macroDays": [
@@ -408,6 +415,14 @@
       "fat": 47,
       "fiber": 11,
       "confidence": "Practical food-based estimates; bread and frying oil not weighed, and bar/milk use usual estimates"
+    },
+    {
+      "date": "2026-10-28",
+      "protein": 90,
+      "carbs": 130,
+      "fat": 115,
+      "fiber": 8,
+      "confidence": "Approximate based on photo and usual portions; restaurant ingredients and frying oil unverified"
     }
   ]
 }
