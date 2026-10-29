@@ -305,9 +305,9 @@
     },
     {
       "date": "2026-10-28",
-      "kcal": 1920,
-      "low": 1720,
-      "high": 2190,
+      "kcal": 1810,
+      "low": 1590,
+      "high": 2090,
       "sugar": "Moderate"
     }
   ],
@@ -419,10 +419,10 @@
     {
       "date": "2026-10-28",
       "protein": 90,
-      "carbs": 130,
-      "fat": 115,
+      "carbs": 134,
+      "fat": 101,
       "fiber": 8,
-      "confidence": "Approximate based on photo and usual portions; restaurant ingredients and frying oil unverified"
+      "confidence": "Approximate revised estimate based on half glass milk and 7UP Zero; burger/fries unweighed"
     }
   ]
 }
