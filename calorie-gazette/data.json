@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-10-30",
+    "updatedThrough": "2026-10-31",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -323,6 +323,13 @@
       "low": 1750,
       "high": 2160,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-10-31",
+      "kcal": 2810,
+      "low": 2480,
+      "high": 3250,
+      "sugar": "High"
     }
   ],
   "macroDays": [
@@ -453,6 +460,14 @@
       "fat": 85,
       "fiber": 12,
       "confidence": "Approximate food-based macros; chicken thigh, retained cooking oil and biscuits not independently weighed"
+    },
+    {
+      "date": "2026-10-31",
+      "protein": 108,
+      "carbs": 316,
+      "fat": 120,
+      "fiber": 13,
+      "confidence": "Approximate food-based estimates; detailed meal portions and oil uncertain"
     }
   ]
 }
