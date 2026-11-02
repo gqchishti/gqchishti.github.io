@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-11-01",
+    "updatedThrough": "2026-11-02",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -337,6 +337,13 @@
       "low": 1840,
       "high": 2470,
       "sugar": "High"
+    },
+    {
+      "date": "2026-11-02",
+      "kcal": 1853,
+      "low": 1620,
+      "high": 2150,
+      "sugar": "High"
     }
   ],
   "macroDays": [
@@ -483,6 +490,14 @@
       "fat": 87,
       "fiber": 8,
       "confidence": "Best food-based estimate; ghee allocation and serving sizes are unweighed"
+    },
+    {
+      "date": "2026-11-02",
+      "protein": 85,
+      "carbs": 155,
+      "fat": 88,
+      "fiber": 10,
+      "confidence": "Food-based estimate; chicken bone/skin/ghee, bakery treats, snack macros and partly eaten potato uncertain"
     }
   ]
 }
