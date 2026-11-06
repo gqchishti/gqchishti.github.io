@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-11-04",
+    "updatedThrough": "2026-11-06",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -358,6 +358,20 @@
       "low": 1200,
       "high": 1600,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-11-05",
+      "kcal": 1855,
+      "low": 1650,
+      "high": 2150,
+      "sugar": "Moderate"
+    },
+    {
+      "date": "2026-11-06",
+      "kcal": 1975,
+      "low": 1740,
+      "high": 2280,
+      "sugar": "High"
     }
   ],
   "macroDays": [
@@ -528,6 +542,22 @@
       "fat": 65,
       "fiber": 6,
       "confidence": "Approximate food-based macros; 100-kcal uncertainty allowance not assigned invented macros"
+    },
+    {
+      "date": "2026-11-05",
+      "protein": 89,
+      "carbs": 112,
+      "fat": 112,
+      "fiber": 6,
+      "confidence": "Restaurant ingredient-based estimates; mutton burger and sauces unweighed; macros best practical estimates"
+    },
+    {
+      "date": "2026-11-06",
+      "protein": 105,
+      "carbs": 184,
+      "fat": 82,
+      "fiber": 10,
+      "confidence": "Best practical estimates from photographed meal leftovers, unweighed portions, bakery slice and biscuits; nutritional values not laboratory-verified"
     }
   ]
 }
