@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-11-07",
+    "updatedThrough": "2026-11-08",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -379,6 +379,13 @@
       "low": 2010,
       "high": 2930,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-11-08",
+      "kcal": 3000,
+      "low": 2650,
+      "high": 3500,
+      "sugar": "High"
     }
   ],
   "macroDays": [
@@ -573,6 +580,14 @@
       "fat": 106,
       "fiber": 10,
       "confidence": "Best practical estimates; shared chicken makhan karahi, bread portions, butter/gravy and mutton pieces not weighed; 7UP Zero approximately zero kcal"
+    },
+    {
+      "date": "2026-11-08",
+      "protein": 100,
+      "carbs": 345,
+      "fat": 120,
+      "fiber": 11,
+      "confidence": "Best practical food-based estimates; wedding portions, cooking fats, dessert sugar and exact serving size uncertain; 150-kcal uncertainty buffer not allocated to macros"
     }
   ]
 }
