@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-11-08",
+    "updatedThrough": "2026-11-09",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -386,6 +386,13 @@
       "low": 2650,
       "high": 3500,
       "sugar": "High"
+    },
+    {
+      "date": "2026-11-09",
+      "kcal": 1102,
+      "low": 920,
+      "high": 1320,
+      "sugar": "Moderate"
     }
   ],
   "macroDays": [
@@ -588,6 +595,14 @@
       "fat": 120,
       "fiber": 11,
       "confidence": "Best practical food-based estimates; wedding portions, cooking fats, dessert sugar and exact serving size uncertain; 150-kcal uncertainty buffer not allocated to macros"
+    },
+    {
+      "date": "2026-11-09",
+      "protein": 56,
+      "carbs": 101,
+      "fat": 53,
+      "fiber": 9,
+      "confidence": "Approximate food-based estimates, especially paratha/saag cooking fat and liver/gizzard size; yogurt calories label-based. Zero-calorie 7UP excluded."
     }
   ]
 }
