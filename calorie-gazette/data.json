@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-11-09",
+    "updatedThrough": "2026-11-10",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -393,6 +393,13 @@
       "low": 920,
       "high": 1320,
       "sugar": "Moderate"
+    },
+    {
+      "date": "2026-11-10",
+      "kcal": 1665,
+      "low": 1470,
+      "high": 1950,
+      "sugar": "High"
     }
   ],
   "macroDays": [
@@ -603,6 +610,14 @@
       "fat": 53,
       "fiber": 9,
       "confidence": "Approximate food-based estimates, especially paratha/saag cooking fat and liver/gizzard size; yogurt calories label-based. Zero-calorie 7UP excluded."
+    },
+    {
+      "date": "2026-11-10",
+      "protein": 87,
+      "carbs": 145,
+      "fat": 82,
+      "fiber": 13,
+      "confidence": "Best practical estimate from declared full portions; chicken size, deep-fry oil uptake, olive oil retention and imli sugar not weighed"
     }
   ]
 }
