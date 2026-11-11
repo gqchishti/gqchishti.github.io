@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-11-10",
+    "updatedThrough": "2026-11-11",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -400,6 +400,13 @@
       "low": 1470,
       "high": 1950,
       "sugar": "High"
+    },
+    {
+      "date": "2026-11-11",
+      "kcal": 4015,
+      "low": 3350,
+      "high": 4750,
+      "sugar": "High"
     }
   ],
   "macroDays": [
@@ -618,6 +625,14 @@
       "fat": 82,
       "fiber": 13,
       "confidence": "Best practical estimate from declared full portions; chicken size, deep-fry oil uptake, olive oil retention and imli sugar not weighed"
+    },
+    {
+      "date": "2026-11-11",
+      "protein": 132,
+      "carbs": 380,
+      "fat": 200,
+      "fiber": 15,
+      "confidence": "Very approximate due to shared dawat dishes, uncertain fried fish, bread halwa, salan and unweighed portions; 200 kcal buffer excluded from macro estimation"
     }
   ]
 }
