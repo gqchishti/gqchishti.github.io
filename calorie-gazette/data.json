@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-11-11",
+    "updatedThrough": "2026-11-12",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -403,9 +403,16 @@
     },
     {
       "date": "2026-11-11",
-      "kcal": 4015,
-      "low": 3350,
-      "high": 4750,
+      "kcal": 3500,
+      "low": 3000,
+      "high": 4300,
+      "sugar": "High"
+    },
+    {
+      "date": "2026-11-12",
+      "kcal": 1824,
+      "low": 1570,
+      "high": 2090,
       "sugar": "High"
     }
   ],
@@ -628,11 +635,19 @@
     },
     {
       "date": "2026-11-11",
-      "protein": 132,
-      "carbs": 380,
-      "fat": 200,
-      "fiber": 15,
-      "confidence": "Very approximate due to shared dawat dishes, uncertain fried fish, bread halwa, salan and unweighed portions; 200 kcal buffer excluded from macro estimation"
+      "protein": 118,
+      "carbs": 344,
+      "fat": 166,
+      "fiber": 13,
+      "confidence": "Approximate, as wedding portions unweighed. Portion sizes revised smaller based on user's recall (especially little chicken/kofta salan and spoonful-sized sides); 150 kcal residual uncertainty buffer excluded from macros."
+    },
+    {
+      "date": "2026-11-12",
+      "protein": 88,
+      "carbs": 151,
+      "fat": 92,
+      "fiber": 9,
+      "confidence": "Best practical estimate; photographed chicken and roti portions plus cooking oil uncertain, labeled biscuit calories and counted cashews more reliable"
     }
   ]
 }
