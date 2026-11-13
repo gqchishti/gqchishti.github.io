@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Calorie Gazette",
     "subtitle": "A Daily Record of the Weight-Loss Campaign",
-    "updatedThrough": "2026-11-12",
+    "updatedThrough": "2026-11-13",
     "defaultMaintenanceKcal": 2400,
     "targetBand": {
       "low": 1600,
@@ -414,6 +414,13 @@
       "low": 1570,
       "high": 2090,
       "sugar": "High"
+    },
+    {
+      "date": "2026-11-13",
+      "kcal": 1641,
+      "low": 1430,
+      "high": 1940,
+      "sugar": "Moderate"
     }
   ],
   "macroDays": [
@@ -648,6 +655,14 @@
       "fat": 92,
       "fiber": 9,
       "confidence": "Best practical estimate; photographed chicken and roti portions plus cooking oil uncertain, labeled biscuit calories and counted cashews more reliable"
+    },
+    {
+      "date": "2026-11-13",
+      "protein": 84,
+      "carbs": 89,
+      "fat": 86,
+      "fiber": 8,
+      "confidence": "Best practical estimate based on photographed chicken portion and labeled 38g snack; chicken edible weight, oil retained and cashew size uncertain; macros approximate"
     }
   ]
 }
